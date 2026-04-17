@@ -1,0 +1,10 @@
+{
+  "name": "hft-nodejs",
+  "version": "0.1.0",
+  "description": "Minimal HFT skeleton - Node.js stack",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
