@@ -24,3 +24,4 @@ See each stack's README.md.
 
 Every stack isolates mock behavior behind a single `Exchange` abstraction. Implement the same two methods (`ticks` / feed + `submit_order`) against a real API.
 # HFT
+# HFT
